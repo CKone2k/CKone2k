@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Cüneyd
+
+My Name is Cüneyd kasap, I am currently participating in the bootcamp Neue Fische to become the worlds best developer.
+JK i wanna start in a new field of work and programming in general is allot of fun for me.
+I have worked many diffrent jobs and learned allot for me this is the way(yes huge starwars nerd).
+
+Fun facts:
+I love shishas and gaming
+I speak German ,English and Türkish.
+
 
 <!--
 **CKone2k/CKone2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
